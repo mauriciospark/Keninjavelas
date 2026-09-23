@@ -256,7 +256,7 @@ Prioritized visualization clarity and research exportability over raw simulation
 - **Observability is Survival** → Unmonitored systems are already failing.
 - **Determinism Matters** → Reproducibility over improvisation.
 
----
+----
 
 # 🛡️ ACTIVE MISSIONS
 
